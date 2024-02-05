@@ -22,27 +22,27 @@ function verificar(){
     switch(proficao){
         case 'rua adalberto malveira' :
             res2.innerHTML = `OLÁ ${nome} SUA UNIDADE É :   `
-            res.innerHTML = 'POST0 DE SAÚDE : ALARICO LEITE  AREÁ 32'
+            res.innerHTML = 'POST0 DE SAÚDE : ALARICO LEITE . horario de 08h ás 17hs'
             break;
 
             case 'rua jari':
                 res2.innerHTML = `OLÁ ${nome} SUA UNIDADE É :   `
-                res.innerHTML = 'POST0 DE SAÚDE : ALARICO LEITE  AREÁ 32,'
+                res.innerHTML = 'POST0 DE SAÚDE : ALARICO LEITE horario de 08h ás 17hs,'
                 break; 
             
             case 'rua barroso':
                 res2.innerHTML = `OLÁ ${nome} SUA UNIDADE É :   `
-                res.innerHTML = 'POST0 DE SAÚDE : ALARICO LEITE  AREÁ 32'
+                res.innerHTML = 'POST0 DE SAÚDE : ALARICO LEITE,horario de 08h ás 17hs'
                 break; 
             
             case 'rua nezita cabral':
                 res2.innerHTML = `OLÁ ${nome} SUA UNIDADE É :   `
-                res.innerHTML = 'POST0 DE SAÚDE : ALARICO LEITE (SIQUEIRA) AREÁ 30'
+                res.innerHTML = 'POST0 DE SAÚDE : ALARICO LEITE, horario de 08h ás 17hs'
                 break; 
 
                 case 'rua jasanaú':
                     res2.innerHTML = `OLÁ ${nome} SUA UNIDADE É :   `
-                res.innerHTML = 'POSTO DE SAÚDE : ALARICO LEITE '
+                res.innerHTML = 'POSTO DE SAÚDE : ALARICO LEITE, horario de 08h ás 17hs '
                 break;      
                 
             case 'rua 1':
@@ -52,78 +52,78 @@ function verificar(){
                 
                 case 'rua 2':
                     res2.innerHTML = `OLÁ ${nome} SUA UNIDADE É :   `
-                res.innerHTML = 'POST0 DE SAÚDE : JOSÊ TEODOSIO (JARI)'
+                res.innerHTML = 'POST0 DE SAÚDE : JOSÊ TEODOSIO (JARI) horario de 08h ás 17hs'
                 break;  
 
                 case 'rua 3':
                     res2.innerHTML = `OLÁ ${nome} SUA UNIDADE É :   `
-                res.innerHTML = 'POST0 DE SAÚDE : JOSÊ TEODOSIO (JARI)'
+                res.innerHTML = 'POST0 DE SAÚDE : JOSÊ TEODOSIO (JARI) horario de 08h ás 17hs'
                 break;  
 
                 case 'rua 4':
                     res2.innerHTML = `OLÁ ${nome} SUA UNIDADE É :   `
-                res.innerHTML = 'POSTO DE SAÚDE : JOSÊ TEODOSIO (JARI)'
+                res.innerHTML = 'POSTO DE SAÚDE : JOSÊ TEODOSIO (JARI) horario de 08h ás 17hs'
 
                 break;  
 
                 case 'rua 5':
                     res2.innerHTML = `OLÁ ${nome} SUA UNIDADE É :   `
-                res.innerHTML = 'POSTO DE SAÚDE : JOSÊ TEODOSIO (JARI)'
+                res.innerHTML = 'POSTO DE SAÚDE : JOSÊ TEODOSIO (JARI) horario de 08h ás 17hs'
                 break;
                 
                 case 'rua nereide':
                     res2.innerHTML = `OLÁ ${nome} SUA UNIDADE É :   `
-                res.innerHTML = 'POSTO DE SAÚDE : FERNANDO DIÓGENES.(granja portugal)'
+                res.innerHTML = 'POSTO DE SAÚDE : FERNANDO DIÓGENES.(granja portugal)horario de 08h ás 17hs'
                 break;  
 
                 case 'rua londrina':
                     res2.innerHTML = `OLÁ ${nome} SUA UNIDADE É :   `
-                res.innerHTML = 'POSTO DE SAÚDE : JOSÊ TEODOSIO.(granja portugal)'
+                res.innerHTML = 'POSTO DE SAÚDE : JOSÊ TEODOSIO.(granja portugal)horario de 08h ás 17hs'
                 break;  
 
                 case 'rua coronel fabriciano':
                     res2.innerHTML = `OLÁ ${nome} SUA UNIDADE É :   `
-                res.innerHTML = 'POSTO DE SAÚDE : FERNANDO DIÓGENES.(granja portugal)'
+                res.innerHTML = 'POSTO DE SAÚDE : FERNANDO DIÓGENES.(granja portugal)horario de 08h ás 17hs'
                 break;  
 
                 case 'rua josé abilio':
                     res2.innerHTML = `OLÁ ${nome} SUA UNIDADE É :   `
-                res.innerHTML = 'POSTO DE SAÚDE : FERNANDO DIÓGENES.(granja portugal)'
+                res.innerHTML = 'POSTO DE SAÚDE : FERNANDO DIÓGENES.(granja portugal)horario de 08h ás 17hs'
                 break; 
                 
                 case 'rua viçosa maia':
                     res2.innerHTML = `OLÁ ${nome} SUA UNIDADE É :   `
-                res.innerHTML = 'POSTO DE SAÚDE : SIQUEIRA (AV eng-luiz montinegro -485)'
+                res.innerHTML = 'POSTO DE SAÚDE : SIQUEIRA (AV eng-luiz montinegro -485)horario de 08h ás 17hs'
                 break;  
 
                 case 'rua guarapari':
                     res2.innerHTML = `OLÁ ${nome} SUA UNIDADE É :   `
-                res.innerHTML = 'POSTO DE SAÚDE : SIQUEIRA (AV eng-luiz montinegro -485)'
+                res.innerHTML = 'POSTO DE SAÚDE : SIQUEIRA (AV eng-luiz montinegro -485) horario de 08h ás 17hs'
                 break;  
 
                 case 'rua leandro henrique':
                     res2.innerHTML = `OLÁ ${nome} SUA UNIDADE É :   `
-                res.innerHTML = 'POSTO DE SAÚDE : SIQUEIRA (AV eng-luiz montinegro -485)'
+                res.innerHTML = 'POSTO DE SAÚDE : SIQUEIRA (AV eng-luiz montinegro -485) horario de 08h ás 17hs'
                 break;  
 
                 case 'rua itapuan':
                     res2.innerHTML = `OLÁ ${nome} SUA UNIDADE É :   `
-                res.innerHTML = 'POSTO DE SAÚDE : SIQUEIRA (AV eng-luiz montinegro -485)'
+                res.innerHTML = 'POSTO DE SAÚDE : SIQUEIRA (AV eng-luiz montinegro -485) horario de 08h ás 17hs'
                 break;  
 
                 case 'rua costa do sol':
                     res2.innerHTML = `OLÁ ${nome} SUA UNIDADE É :   `
-                res.innerHTML = 'POSTO DE SAÚDE : SIQUEIRA (AV eng-luiz montinegro -485)'
+                res.innerHTML = 'POSTO DE SAÚDE : SIQUEIRA (AV eng-luiz montinegro -485) horario de 08h ás 17hs'
                 break;  
 
                 case 'rua santo antonio':
                     res2.innerHTML = `OLÁ ${nome} SUA UNIDADE É :   `
-                res.innerHTML = 'POSTO DE SAÚDE : SIQUEIRA (AV eng-luiz montinegro -485)'
+                res.innerHTML = 'POSTO DE SAÚDE : SIQUEIRA (AV eng-luiz montinegro -485) horario de 08h ás 17hs'
                 break;  
 
                 case 'rua padre panhando':
                     res2.innerHTML = `OLÁ ${nome} SUA UNIDADE É :   `
-                res.innerHTML = 'POSTO DE SAÚDE : SIQUEIRA (AV eng-luiz montinegro -485)'
+                res.innerHTML = 'POSTO DE SAÚDE : SIQUEIRA (AV eng-luiz montinegro -485) horario de 08h ás 17hs'
                 break;  
             
             default :
