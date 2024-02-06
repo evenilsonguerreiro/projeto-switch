@@ -1,0 +1,27 @@
+header img{
+    width: 300px;
+}
+input{
+    text-transform: uppercase;
+}
+#res{
+    font-size: 16px;
+    text-align: center;
+    color: black;
+    font-weight: bold;
+   
+}
+#res2{
+    font-size: 16px;
+    text-align: center;
+    color: black;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+@media (max-width:767px){
+    
+    #res ,#res2{
+        font-size: 12px;
+    }
+}
