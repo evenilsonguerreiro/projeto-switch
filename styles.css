@@ -20,6 +20,9 @@ input{
 }
 
 @media (max-width:767px){
+    .container{
+        max-width: 90%;
+    }
     
     #res ,#res2{
         font-size: 12px;
