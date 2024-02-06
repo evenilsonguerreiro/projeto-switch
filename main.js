@@ -20,7 +20,7 @@ function verificar(){
     }
 
     switch(proficao){
-        case 'RUA ADALBERTO MALVEIRA' :
+        case 'rua adalberto malveira' :
             res2.innerHTML = `OLÁ ${nome} SUA UNIDADE É :   `
             res.innerHTML = 'POST0 DE SAÚDE : ALARICO LEITE . horario de 08h ás 17hs'
             break;
